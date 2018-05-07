@@ -1,0 +1,12 @@
+{
+  "name": "flv",
+  "version": "1.0.0",
+  "description": "一款网页版使用flvplayer.swf播放器播放flv视频文件，兼容各大主流浏览器（包括ie6、7）。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
